@@ -1,0 +1,9 @@
+/EstrogenMod/.idea/
+/EstrogenMod/.vs/
+/EstrogenMod/EstrogenMod/bin/
+/EstrogenMod/EstrogenMod/obj/
+/EstrogenModResources/Assets/Building/AssetBundles/
+*.meta
+/EstrogenModResources/Library/
+/EstrogenMod/EstrogenMod/.vs/
+/EstrogenMod/EstrogenMod.sln.DotSettings.user
